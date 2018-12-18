@@ -1,0 +1,7 @@
+{
+  "app": "node bin/todosample.js",
+  "context": {
+    "ssm:account=678291135883:parameterName=/aws/service/ecs/optimized-ami/amazon-linux/recommended:region=ap-northeast-1": "{\"schema_version\":1,\"image_name\":\"amzn-ami-2018.03.i-amazon-ecs-optimized\",\"image_id\":\"ami-05b296a384694dfa4\",\"os\":\"Amazon Linux\",\"ecs_runtime_version\":\"Docker version 18.06.1-ce\",\"ecs_agent_version\":\"1.22.0\"}",
+    "ssm:account=133198495231:parameterName=/aws/service/ecs/optimized-ami/amazon-linux/recommended:region=ap-northeast-1": "{\"schema_version\":1,\"image_name\":\"amzn-ami-2018.03.i-amazon-ecs-optimized\",\"image_id\":\"ami-05b296a384694dfa4\",\"os\":\"Amazon Linux\",\"ecs_runtime_version\":\"Docker version 18.06.1-ce\",\"ecs_agent_version\":\"1.22.0\"}"
+  }
+}
